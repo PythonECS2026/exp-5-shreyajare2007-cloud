@@ -22,5 +22,5 @@ print(f"JEE but not for NEET: {jee_not_neet}")
 
 cet_and_neet_not_jee = (cet & neet) - jee
 print(f"CET and NEET but not for JEE: {cet_and_neet_not_jee}")
-
 # Write your code here
+
