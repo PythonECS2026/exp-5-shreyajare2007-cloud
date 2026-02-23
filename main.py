@@ -24,11 +24,3 @@ cet_and_neet_not_jee = (cet & neet) - jee
 print(f"CET and NEET but not for JEE: {cet_and_neet_not_jee}")
 
 # Write your code here
-# TODO: Add & Print new Task from user
-
-# TODO: Edit & Print task selected by User
-
-# TODO: Remove & Print a Task selected by User
-
-# TODO: Sort & Print the Tasks
-
