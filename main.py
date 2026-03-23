@@ -1,6 +1,5 @@
 # AIM: Task List Manager
 # Coder:
-# Date:
 print("List of Students:")
 
 cet = {"Alice", "Bob", "Charlie", "Frank"}
@@ -24,3 +23,5 @@ cet_and_neet_not_jee = (cet & neet) - jee
 print(f"CET and NEET but not for JEE: {cet_and_neet_not_jee}")
 # Write your code here
 
+
+# Date:
